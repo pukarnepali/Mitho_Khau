@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "841234565910",
+    "firebase_url": "https://whatsapp-7e7c0-default-rtdb.firebaseio.com",
+    "project_id": "whatsapp-7e7c0",
+    "storage_bucket": "whatsapp-7e7c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841234565910:android:f33437003d483bc8301e37",
+        "android_client_info": {
+          "package_name": "com.example.food_delivery_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841234565910-jqk9t71j6jprkj2l1iuqnp5u6ddu4qo4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbHR8_9v1F80uQH7_VHbbhw-VfhwV72Qw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841234565910-jqk9t71j6jprkj2l1iuqnp5u6ddu4qo4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "841234565910-1dlpc706k9lbutr75inp2v5v9832n5k5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mithokhau"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841234565910:android:07d4351e5abfc7ab301e37",
+        "android_client_info": {
+          "package_name": "com.example.food_delivery_app_with_backend_firebase_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841234565910-jqk9t71j6jprkj2l1iuqnp5u6ddu4qo4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbHR8_9v1F80uQH7_VHbbhw-VfhwV72Qw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841234565910-jqk9t71j6jprkj2l1iuqnp5u6ddu4qo4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "841234565910-1dlpc706k9lbutr75inp2v5v9832n5k5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mithokhau"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

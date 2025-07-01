@@ -1,0 +1,13 @@
+flutter_native_splash:
+  color: '#FFFFFF'
+  
+  image: images/mithokhau-logo-light.png
+  
+
+  android_12:
+    color: '#FFFFFF'
+    
+    image: images/mithokhau-logo-light.png
+    
+
+  web: false
