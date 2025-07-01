@@ -1,6 +1,3 @@
-Here’s a detailed and professional `README.md` file you can use for your **Mitho Khau** GitHub repository:
-
----
 
 
 #  Mitho Khau - Food Delivery Application
@@ -96,7 +93,7 @@ Developed by **Pukar Nepali**
 
 ---
 
-*Thank you for visiting the project! Feel free to star  the repository if you find it useful.*
+*Thank you for visiting the project! Feel free to star the repository if you find it useful.*
 
 ```
 
